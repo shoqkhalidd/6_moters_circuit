@@ -8,7 +8,7 @@ this project was made to create a circuit  to control two arm with 6 servo motor
 it has three gestures 
 - Hi move
 - Bye move 
-- extra  
+- Extra move  
 
 to see the simulation [click here](https://www.tinkercad.com/things/2LESonZFCFS)
 
